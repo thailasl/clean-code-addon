@@ -15,7 +15,7 @@ async function getCodeSuggestion(codeSnippet: string): Promise<string> {
     {
       headers: {
         'Content-Type': 'application/json',
-        Authorization: `Bearer ${config.API_KEY}`,
+        'Authorization': `Bearer ${config.API_KEY}`,
       },
     }
   );

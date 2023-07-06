@@ -55,5 +55,9 @@
     "@types/react": "^18.2.14",
     "axios": "^1.4.0",
     "git-remote-origin-url": "^4.0.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/thailasl/clean-code-addon"
+}
 }

@@ -20,7 +20,7 @@
     ]
   },
   "scripts": {
-    "vscode:prepublish":  "tsc -p ./",
+    "vscode:prepublish": "tsc -p ./",
     "compile": "webpack",
     "watch": "webpack --watch",
     "package": "webpack --mode production --devtool hidden-source-map",
@@ -53,6 +53,7 @@
   },
   "dependencies": {
     "@types/react": "^18.2.14",
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "git-remote-origin-url": "^4.0.0"
   }
 }

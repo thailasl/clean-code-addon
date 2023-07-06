@@ -33,7 +33,7 @@ To customize the extension, you can adjust the following settings in Visual Stud
 
 ## Support
 
-If you encounter any issues, have questions, or would like to provide feedback, please feel free to open an issue in this [GitHub repository](${repositoryLink}).
+If you encounter any issues, have questions, or would like to provide feedback, please feel free to open an issue in this [GitHub repository](${https://github.com/thailasl/clean-code-addon}).
 
 ## Contribution
 

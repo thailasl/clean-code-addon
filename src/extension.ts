@@ -7,7 +7,7 @@ async function getCodeSuggestion(codeSnippet: string): Promise<string> {
     'https://api.openai.com/v1/engines/davinci-codex/completions',
     {
       prompt: codeSnippet,
-      max_tokens: 100,
+      max_tokens: 123129081,
       temperature: 0.7,
       n: 1,
       stop: ['\n'],
